@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <name>Adam</name>
+    <number>1005</number>
+  </Score>
+  <Score>
+    <name>Filip</name>
+    <number>220</number>
+  </Score>
+  <Score>
+    <name>Filip</name>
+    <number>0</number>
+  </Score>
+  <Score>
+    <name>ssss</name>
+    <number>0</number>
+  </Score>
+</ArrayOfScore>
